@@ -1,12 +1,17 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Prajil K
-========================================================================================================================================
+================================================================================================================================
 
-I am MERN Stack developer.
---------------------------
+Web Developer
+-------------
 
-*   🌍  I'm based in Kerala, India
-*   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://prajilk.github.io/'>Portfolio</a>
-*   🤝  I'm open to collaborating on interesting projects as a developer
+Results-driven web developer specializing in both front-end and back-end technologies. Proficient in crafting visually appealing and responsive websites. Adept at translating client requirements into efficient and scalable web solutions. Committed to staying abreast of industry trends for optimal development outcomes.
+
+* 🌍  I'm based in Bangalore, India
+* 🖥️  See my portfolio at [My Portfolio](http://prajilk.github.io)
+* ✉️  You can contact me at [prajilk20017@gmail.com](mailto:prajilk20017@gmail.com)
+* 🚀  I'm currently working on [GadgeXhub: A NextJS E-Commerce app](http://gadgexhub.vercel.app)
+* 🧠  I'm learning AWS
+* 🤝  I'm open to collaborating on any web development projects
 
 ### Skills
 
@@ -26,6 +31,24 @@ I am MERN Stack developer.
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="Bootstrap" /></a> &nbsp; 
 <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="MaterialUI" /></a> 
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/michaelkolesidis/tech-icons/3f4f5fbef9a8e5dae8dc9cab983472a9222993b9/icons/vscode/vscode-original.svg" width="36" height="36" alt="VSCode" /></a> 
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/prajilk"><img src="https://github-readme-stats.vercel.app/api?username=prajilk&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="prajilk's GitHub stats" /></a>
+
+<a href="http://www.github.com/prajilk"><img src="https://github-readme-streak-stats.herokuapp.com/?user=prajilk&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/prajilk" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajilk&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/prajilk/gadgexhub-nextjs" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=prajilk&repo=gadgexhub-nextjs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/prajilk/admin.gadgexhub" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=prajilk&repo=admin.gadgexhub&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<br /><br /><br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/prajilk/formease-frontend" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=prajilk&repo=formease-frontend&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/prajilk/formease-backend" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=prajilk&repo=formease-backend&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
 ### Socials
 
