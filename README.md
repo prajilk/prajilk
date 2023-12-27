@@ -36,9 +36,12 @@ Results-driven web developer specializing in both front-end and back-end technol
 
 ### Socials
 
-<p align="left"> <a href="https://linkedin.com/in/prajilk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="LinkedIn" width="32" height="32" /></a> </p>
-<p align="left"> <a href="https://www.x.com/Prajil_K_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" alt="X" width="32" height="32" /></a> </p>
-<p align="left"> <a href="https://www.x.com/Prajil_K_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" alt="X" width="32" height="32" /></a> </p>
+<a href="https://linkedin.com/in/prajilk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="LinkedIn" width="32" height="32" /></a>
+<a href="https://www.x.com/Prajil_K_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" alt="X" width="32" height="32" /></a>
+<a href="https://www.medium.com/@prajilk20017" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" alt="Medium" width="32" height="32" /></a>
+<a href="https://www.instagram.com/p_ra_jil" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" alt="Instagram" width="32" height="32" /></a>
+<a href="https://www.facebook.com/prajilk07" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" alt="Facebook" width="32" height="32" /></a>
+<a href="https://www.stackoverflow.com/users/15754363/prajil-k" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" alt="Stack Overflow" width="32" height="32" /></a>
 
 ### Badges
 
