@@ -32,6 +32,10 @@ Results-driven web developer specializing in both front-end and back-end technol
 <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="MaterialUI" /></a> 
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/michaelkolesidis/tech-icons/3f4f5fbef9a8e5dae8dc9cab983472a9222993b9/icons/vscode/vscode-original.svg" width="36" height="36" alt="VSCode" /></a> 
 
+### Socials
+
+<p align="left"> <a href="https://linkedin.com/in/prajilk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> </p>
+
 ### Badges
 
 <b>My GitHub Stats</b>
@@ -49,7 +53,3 @@ Results-driven web developer specializing in both front-end and back-end technol
 <br /><br /><br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/prajilk/formease-frontend" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=prajilk&repo=formease-frontend&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/prajilk/formease-backend" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=prajilk&repo=formease-backend&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-
-### Socials
-
-<p align="left"> <a href="https://linkedin.com/in/prajilk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> </p>
