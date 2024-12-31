@@ -7,10 +7,10 @@ Web Developer
 Results-driven web developer specializing in both front-end and back-end technologies. Proficient in crafting visually appealing and responsive websites. Adept at translating client requirements into efficient and scalable web solutions. Committed to staying abreast of industry trends for optimal development outcomes.
 
 * 🌍  I'm based in Bangalore, India
-* 🖥️  See my portfolio at [My Portfolio](http://prajilk.github.io)
+* 🖥️  See my portfolio at [My Portfolio](http://prajilk.vercel.app)
 * ✉️  You can contact me at [prajilk20017@gmail.com](mailto:prajilk20017@gmail.com)
-* 🚀  I'm currently working on [GadgeXhub: A NextJS E-Commerce app](http://gadgexhub.vercel.app)
-* 🧠  I'm learning AWS
+* 🚀  I'm currently working on [Fluxora: Landing page for Freelance agency in France]
+* 🧠  I'm learning Three.js
 * 🤝  I'm open to collaborating on any web development projects
 
 ### Skills
