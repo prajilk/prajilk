@@ -8,7 +8,7 @@ Results-driven web developer specializing in both front-end and back-end technol
 
 * 🖥️  See my portfolio at [My Portfolio](http://prajilk.vercel.app)
 * ✉️  You can contact me at [prajilk20017@gmail.com](mailto:prajilk20017@gmail.com)
-* 🚀  I'm currently working on [The Oven Fresh: Order booking / Admin dashboard for Restaurant in Canada]
+* 🚀  I'm currently working on [The Oven Fresh: Order booking / Admin dashboard for Restaurant in Canada](https://theovenfresh.ca)
 * 🧠  I'm learning Three.js
 * 🤝  I'm open to collaborating on any web development projects
 
